@@ -1,6 +1,6 @@
 Name:		texlive-nimsticks
 Version:	64118
-Release:	1
+Release:	2
 Summary:	Draws sticks for games of multi-pile Nim
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nimsticks
